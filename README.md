@@ -7,10 +7,11 @@
 
 Dynamic and highly skilled Frontend Developer with a strong foundation in web development and user interface design. Specializes in creating responsive, user-friendly web applications leveraging modern frameworks and technologies. Proficient in JavaScript, React, Next JS with a demonstrated ability to translate design concepts into engaging, interactive experiences. A self-motivated professional dedicated to continuous learning and staying current with industry trends. Excels in collaborative environments, effectively working with cross-functional teams. Currently seeking opportunities to enhance user experiences and contribute to impactful projects.
 
-[![Static Badge](https://img.shields.io/badge/Hi-Dear-486?logo=github)](https://github.com/Hi-Dear-486)
-[![Static Badge](https://img.shields.io/badge/Hi-Dear-486?logo=linkedin&logoColor=white&labelColor=%230077B5&color=%230077B5)](https://github.com/Hi-Dear-486)
-[![Static Badge](https://img.shields.io/badge/Hi-Dear-486?logo=stackoverflow&logoColor=white&labelColor=%23F47F24&color=%23F47F24)](https://github.com/Hi-Dear-486)
-[![Static Badge](https://img.shields.io/badge/Hi-Dear-486?logo=gmail&logoColor=white&labelColor=%23ff4343&color=%23ff4343)](https://github.com/Hi-Dear-486)
+[![Static Badge](https://img.shields.io/badge/zeeshan-develop?logo=github)](https://github.com/zeeshan-develop)
+[![Static Badge](https://img.shields.io/badge/zeeshan-develop?logo=linkedin&logoColor=white&labelColor=%230077B5&color=%230077B5)](https://www.linkedin.com/in/muhammad-zeeshan-87b01a333/)
+[![Static Badge](https://img.shields.io/badge/zeeshan-develop?logo=stackoverflow&logoColor=white&labelColor=%23F47F24&color=%23F47F24)](https://stackoverflow.com/users/your-user-id)
+[![Static Badge](https://img.shields.io/badge/zeeshan-develop?logo=gmail&logoColor=white&labelColor=%23ff4343&color=%23ff4343)](mailto:your-email@gmail.com)
+
 
 - 🏢 I'm currently working on ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 - 🚀 I use daily:
